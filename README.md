@@ -1,2 +1,2 @@
 # Spider-Bit
-O jogo dos dois Zeeees
+Its the TUGA game for the summer
